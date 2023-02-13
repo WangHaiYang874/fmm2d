@@ -24,3 +24,4 @@ lib-static/*.a
 GPATH
 GRTAGS
 GTAGS
+.vscode/*
