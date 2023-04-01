@@ -19,4 +19,8 @@ int2
 *debug*
 *~
 lib-static/*.a
+
 .vscode/*
+GPATH
+GRTAGS
+GTAGS
